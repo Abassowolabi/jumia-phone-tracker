@@ -1,62 +1,422 @@
 [
-{"links": "https://www.jumia.com.ng/itel-rs4-256gb-rom8-gb-ram-silvery-white-339266584.html", "titles": "itel RS4 256GB ROM+8 GB RAM Silvery White", "prices": "₦ 159,000", "ratings": "4.2 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/itel-s25-ultra-6.78-amoled-2568-4g-android-blue-393740652.html", "titles": "itel S25 Ultra 6.78\" AMOLED 256+8 4G Android-Blue", "prices": "₦ 224,360", "ratings": "4.2 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/redbeat-d5-smartphone-6.52inch-hd-display-4gb-64gb-rom-black-367085247.html", "titles": "redbeat D5 Smartphone 6.52inch HD Display, 4GB + 64GB ROM, Black", "prices": "₦ 93,195", "ratings": "4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/infinix-smart-9hd-6.7-4gb-ram64gb-rom-titanium-384822967.html", "titles": "Infinix Smart 9HD 6.7\" 4GB RAM/64GB ROM Titanium", "prices": "₦ 136,211", "ratings": "4.3 out of 5", "availability": "8 units left"},
-{"links": "https://www.jumia.com.ng/itel-2165-wireless-fm-torch-dual-sim-phone-24-month-warranty-382158384.html", "titles": "itel 2165 Wireless FM, Torch, Dual SIM Phone + 24 Month Warranty", "prices": "₦ 10,990", "ratings": "4.2 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/lesia-l176-1.7732mb-rom32mb800mah-dual-sim-black-409341085.html", "titles": "LESIA L176_ 1.77\",32MB ROM/32MB,800MAh, Dual Sim- Black", "prices": "₦ 6,999", "ratings": "4.3 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/infinix-smart-9hd-6.7-4gb-ram64gb-rom-black-384822849.html", "titles": "Infinix Smart 9HD 6.7\" 4GB RAM/64GB ROM Black", "prices": "₦ 136,211", "ratings": "4.1 out of 5", "availability": "2 units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-3gb-ram64gb-rom-black-408323169.html", "titles": "XIAOMI REDMI A5 -  6.88   3GB RAM/64GB ROM  -- Black", "prices": "₦ 89,999", "ratings": "4.3 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/freeyond-f92gb64gb6.52-smartphone4g5000mahblack-195758056.html", "titles": "FreeYond F9,2GB+64GB,6.52\" Smartphone,4G,5000mAh,Black", "prices": "₦ 76,790", "ratings": "3.8 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-3gb-ram64gb-rom-black-408237967.html", "titles": "XIAOMI REDMI A5 -  6.88   3GB RAM/64GB ROM  -- BLACK", "prices": "₦ 98,632", "ratings": "4.2 out of 5", "availability": "3 units left"},
-{"links": "https://www.jumia.com.ng/tecno-spark-30c-6.6-4gb-ram128gb-rom-android-14-black-382119800.html", "titles": "Tecno Spark 30C 6.6\" 4GB RAM/128GB ROM Android 14 - Black", "prices": "₦ 132,000", "ratings": "4.1 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-4gb-ram128gb-rom-black-408237971.html", "titles": "XIAOMI REDMI A5 -  6.88   4GB RAM/128GB ROM  -- BLACK", "prices": "₦ 108,789", "ratings": "4.2 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/samsung-galaxy-a05-6.7-4gb-ram64gb-rom-android-13-black..-402050267.html", "titles": "Samsung Galaxy A05 6.7\" 4GB RAM/64GB ROM Android 13 - Black..", "prices": "₦ 114,160", "ratings": "4.3 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/samsung-galaxy-a05-6.7-4gb-ram64gb-rom-android-13-black-397109308.html", "titles": "Samsung Galaxy A05 6.7\" 4GB RAM/64GB ROM Android 13 - Black", "prices": "₦ 120,577", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/nokia-105african-edition1.774mb4mb800mah-dual-sim-charcoal-132260136.html", "titles": "Nokia 105_African Edition,1.77\",4MB/4MB,800MAh, Dual Sim- Charcoal", "prices": "₦ 12,579", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/infinix-smart-9-6.7-3gb-ram128gb-rom-android-14-go-black-379792134.html", "titles": "Infinix Smart 9  6.7\" 3GB RAM/128GB ROM Android 14 Go Black", "prices": "₦ 124,389", "ratings": "4.4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-s23-6.78-fhd-8gb-ram256-rom-android-12-blue-351441428.html", "titles": "itel S23+ 6.78\" FHD 8GB RAM/256 ROM Android 12 - Blue", "prices": "₦ 198,000", "ratings": "4.3 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/tecno-t353-2.0-display-fm-loud-speakertorch3000mahblack-367114650.html", "titles": "Tecno T353, 2.0 Display, FM Loud Speaker,Torch,3000mAh_Black", "prices": "₦ 23,700", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-p65-6.67-4gb-ram128gb-rom-50002400mah-android-14-black-374351502.html", "titles": "itel P65 6.67'' 4GB RAM/128GB ROM 5000+2400*mAh Android 14-Black", "prices": "₦ 129,900", "ratings": "4.2 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/poco-c61-6.71-3gb-ram-64gb-rom-android-14-black-388215143.html", "titles": "Poco C61 6.71\" 3GB RAM / 64GB ROM Android 14 - Black", "prices": "₦ 86,400", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-a06-6.6-hd-32gb-rom-up-to-4gb-ram-4000mah-4g-366444774.html", "titles": "itel A06 6.6\" HD+, 32GB ROM + Up To 4GB RAM, 4000mAh, 4G", "prices": "₦ 83,390", "ratings": "4.1 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/infinix-hot-50-pro-6.78-8gb-ram128gb-rom-android-14-black-380012162.html", "titles": "Infinix Hot 50 Pro+ 6.78\" 8GB RAM/128GB ROM Android 14- Black", "prices": "₦ 257,226", "ratings": "4.7 out of 5", "availability": "3 units left"},
-{"links": "https://www.jumia.com.ng/poco-c61-6.71-4gb-ram-128gb-rom-android-14-black-388215120.html", "titles": "Poco C61 6.71\" 4GB RAM / 128GB ROM Android 14 - Black", "prices": "₦ 96,400", "ratings": "4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/agm-note-n1-6.52-8gb-base-ram8gb-extended-ram128gb-rom-android-13-grey-235195482.html", "titles": "AGM Note N1 6.52\"  8GB Base RAM/8GB Extended RAM/128GB ROM Android 13 - Grey", "prices": "₦ 126,095", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/nokia-150-dual-sim-2.4-camera-torch-1020mah-black-367171255.html", "titles": "Nokia 150 - Dual Sim -2.4\" -Camera - Torch-1020mAh-Black", "prices": "₦ 23,000", "ratings": "3.4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-a50-6.6-3gb-ram64gb-rom-android-12-black-357614589.html", "titles": "itel A50 6.6\" 3GB RAM/64GB ROM Android 12 - Black", "prices": "₦ 89,900", "ratings": "4.5 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/realme-c61-dual-sim-8gb-ram-256gb-4g-397550349.html", "titles": "Realme C61 Dual SIM 8GB RAM 256GB 4G", "prices": "₦ 169,000", "ratings": "4.6 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/realme-note-50-6.724128gb13mpandroid-135000mah-midnight-black-388773948.html", "titles": "Realme NOTE 50-6.72\",4/128GB,13MP,Android 13,5000mAh-Midnight Black", "prices": "₦ 128,200", "ratings": "4 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-14c-6.88-4gb-ram128gb-rom-android-14-midnight-black..-401965648.html", "titles": "XIAOMI Redmi 14C 6.88'' 4GB RAM/128GB ROM Android 14 -Midnight Black..", "prices": "₦ 135,322", "ratings": "4.4 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/redmi-note-14-pro-6.67-8gb-ram256-gb-rom-hyperos-200mp-ai-camera-midnight-black-free-gift-xiaomi-mpg9585250.html", "titles": "XIAOMI Redmi Note 14 PRO 6.67\" 8GB RAM/256 GB ROM HyperOS -200MP AI Camera - Midnight Black", "prices": "₦ 395,081", "ratings": "4.6 out of 5", "availability": "1 units left"},
-{"links": "https://www.jumia.com.ng/redbeat-e3-6.6-inch12gb-ram256gb-rom-android-14black-365951504.html", "titles": "redbeat E3 ,6.6-inch,12GB RAM/256GB ROM ,Android 14,BLACK", "prices": "₦ 144,256", "ratings": "4.4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/tecno-spark-30c-smart-phone-with-128gb-rom-4gb-ram-377439989.html", "titles": "Tecno Spark 30C Smart Phone With 128GB ROM & 4GB RAM", "prices": "₦ 148,599", "ratings": "4.3 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-nokia-mpg8636576.html", "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black", "prices": "₦ 22,300", "ratings": "3.5 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/realme-note-50-dual-sim-4gb-ram-128gb-4g-377631775.html", "titles": "Realme Note 50 Dual SIM  4GB RAM 128GB 4G", "prices": "₦ 128,200", "ratings": "4.1 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/philips-essence-10-6.56-hd-punch-hole-64gb-rom-up-to-6g-33-gb-extended-ram-android-13-moonlight-black-408192944.html", "titles": "Philips Essence 10 6.56 HD Punch Hole 64GB ROM / Up To 6G ( 3+3 GB) Extended RAM  Android 13 - Moonlight Black", "prices": "₦ 91,000", "ratings": "4.8 out of 5", "availability": "7 units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-note-14-6.67-6gb-ram128gb-rom-hyperos-108mp-ai-camera-midnight-black-401043818.html", "titles": "XIAOMI Redmi Note 14 6.67\" 6GB RAM/128GB ROM HyperOS - 108MP AI Camera - Midnight Black", "prices": "₦ 245,701", "ratings": "4.4 out of 5", "availability": "2 units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a3-pro-6.88-4gb-ram-128gb-rom-android-14-midnight-black-380046365.html", "titles": "XIAOMI Redmi A3 Pro 6.88\" 4GB RAM / 128GB ROM Android 14 - Midnight Black", "prices": "₦ 118,895", "ratings": "4.2 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-a18s-5.0-32gb-rom-up-to-4gb-ram-5mp-android-13-orange-277844530.html", "titles": "itel A18S 5.0\" 32GB ROM + Up To 4GB RAM, 5MP, Android 13 - Orange", "prices": "₦ 105,000", "ratings": "3.8 out of 5", "availability": "1 units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a3-pro-6.88-4gb-ram-128gb-rom-android-14-midnight-black..-401991571.html", "titles": "XIAOMI Redmi A3 Pro 6.88\" 4GB RAM / 128GB ROM Android 14 - Midnight Black..", "prices": "₦ 118,895", "ratings": "4.1 out of 5", "availability": "8 units left"},
-{"links": "https://www.jumia.com.ng/philips-xenium210-wireless-fm-black-408194046.html", "titles": "Philips Xenium210 Wireless FM - Black", "prices": "₦ 15,500", "ratings": "4.7 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/itel-s25-ultra-6.78-curved-amoled-256gb-8gb-ram-50mp-5000mah-398439562.html", "titles": "itel S25 Ultra 6.78\" Curved AMOLED, 256GB + 8GB RAM, 50MP, 5000mAh", "prices": "₦ 239,900", "ratings": "4.9 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-nokia-mpg7057095.html", "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black", "prices": "₦ 22,300", "ratings": "3.5 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/apple-iphone-15-pro-max-6.7-512gb-nano-sim-5g-natural-titanium-382455486.html", "titles": "Apple IPhone 15 Pro Max 6.7\" 512GB Nano-SIM 5G - Natural Titanium", "prices": "₦ 2,000,000", "ratings": "5 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/tecno-t315-big-screen-fm-loud-speaker-big-battery-black-367585233.html", "titles": "Tecno T315, Big Screen, FM Loud Speaker, Big Battery-Black", "prices": "₦ 23,500", "ratings": "4.5 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/poco-c61-6.71-4gb-ram-128gb-rom-android-14-black-380046453.html", "titles": "Poco C61 6.71\" 4GB RAM / 128GB ROM Android 14 - Black", "prices": "₦ 96,400", "ratings": "3.8 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/nokia-5310-xpressmusic-wireless-fm-loudspeaker-dual-sim-black-290394846.html", "titles": "Nokia 5310 XpressMusic Wireless FM Loudspeaker Dual SIM -black", "prices": "₦ 22,999", "ratings": "4 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/freeyond-f9-6.52-2gb-ram64gb-rom-android-12-blue-195765750.html", "titles": "FreeYond F9 6.52\" 2GB RAM/64GB ROM Android 12 - Blue", "prices": "₦ 104,279", "ratings": "3.8 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/samsung-galaxy-s21-5g-8128gb-g991u-single-sim-black-359755866.html", "titles": "Samsung Galaxy S21 5G 8+128GB G991U Single Sim -black", "prices": "₦ 366,000", "ratings": "3.5 out of 5", "availability": "2 units left"},
-{"links": "https://www.jumia.com.ng/infinix-hot-50-pro-plus-smart-phone-with-128gb-rom-8gb-ram-391092628.html", "titles": "Infinix Hot 50 Pro Plus Smart Phone With 128GB ROM & 8GB RAM", "prices": "₦ 280,399", "ratings": "4.1 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/nokia-5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-367200309.html", "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black", "prices": "₦ 23,700", "ratings": "4 out of 5", "availability": "4 units left"},
-{"links": "https://www.jumia.com.ng/samsung-galaxy-s21-ultra-5g-6.8-128gb-12gb-ram-single-sim-black-284509464.html", "titles": "Samsung Galaxy S21 Ultra 5G-6.8\" (128GB, 12GB RAM) Single Sim Black ⚫️", "prices": "₦ 550,000", "ratings": "4.3 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-a3x-6.71-3gb-ram64gb-rom-android-14-black-351646555.html", "titles": "XIAOMI Redmi A3x 6.71\" 3GB RAM/64GB ROM Android 14 - Black", "prices": "₦ 108,464", "ratings": "3.8 out of 5", "availability": "1 units left"},
-{"links": "https://www.jumia.com.ng/xiaomi-redmi-note-14-pro-6.67-12gb-ram512-gb-rom-hyperos-200mp-ai-camera-midnight-black.-401043821.html", "titles": "XIAOMI Redmi Note 14 PRO 6.67\" 12GB RAM/512 GB ROM HyperOS -200MP AI Camera - Midnight Black.", "prices": "₦ 472,681", "ratings": "4.8 out of 5", "availability": "2 units left"},
-{"links": "https://www.jumia.com.ng/oppo-a31-6gb-ram128g-rom-refurbished-dual-sim6.5-inch-screen-hd-camera-12mp-face-unlockfingerprint-smartphone-renewed-mpg10471363.html", "titles": "Renewed Oppo A31 6GB RAM+128G ROM Refurbished Dual SIM6.5 Inch Screen HD Camera 12MP Face Unlock+Fingerprint Smartphone", "prices": "₦ 84,784", "ratings": "4.1 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/samsung-galaxy-s20-5g-6.2-128gb-rom-12gb-ram-grey-256235949.html", "titles": "Samsung Galaxy S20 5G - 6.2'' (128GB ROM 12GB RAM) Grey", "prices": "₦ 293,500", "ratings": "4.4 out of 5", "availability": "1 units left"},
-{"links": "https://www.jumia.com.ng/huawei-y5p-99.9new-2gb-ram-32gb-rom-5000mah-battery-6.3-inch-screen-passwordfacial-recognition-refurbished-smartphonelocal-customer-service-366988327.html", "titles": "Huawei Y5P 99.9%NEW 2GB RAM 32GB ROM 5000mAh Battery 6.3-inch Screen    Password/facial Recognition Refurbished Smartphone【Local Customer Service】", "prices": "₦ 51,200", "ratings": "5 out of 5", "availability": "5 units left"},
-{"links": "https://www.jumia.com.ng/renewed-oppo-a31-6gb-ram128g-rom-refurbished-dual-sim6.5-inch-screen-hd-camera-12mp-face-unlockfingerprint-smartphone-262827083.html", "titles": "Renewed Oppo A31 6GB RAM+128G ROM Refurbished Dual SIM6.5 Inch Screen HD Camera 12MP Face Unlock+Fingerprint Smartphone", "prices": "₦ 87,984", "ratings": "4.2 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/itel-power-70-6.67-hd-44gb-ram128gb-rom-andriod-silver-408313003.html", "titles": "itel Power 70 6.67'' HD 4+4GB RAM/128GB ROM Andriod - Silver", "prices": "₦ 124,900", "ratings": "5 out of 5", "availability": "Availability unknown"},
-{"links": "https://www.jumia.com.ng/realme-note-50-6.72364gb13mpandroid-135000mah-sky-blue-377631668.html", "titles": "Realme NOTE 50-6.72\",3/64GB,13MP,Android 13,5000mAh-Sky Blue", "prices": "₦ 109,900", "ratings": "4 out of 5", "availability": "Few units left"},
-{"links": "https://www.jumia.com.ng/redbeat-e3-6.6-inch12gb-ram256gb-rom-android-14blue-365952954.html", "titles": "redbeat E3 ,6.6-inch,12GB RAM/256GB ROM ,Android 14,BLUE", "prices": "₦ 150,815", "ratings": "4.6 out of 5", "availability": "Availability unknown"}
+    {
+        "links": "https://www.jumia.com.ng/itel-rs4-256gb-rom8-gb-ram-silvery-white-339266584.html",
+        "titles": "itel RS4 256GB ROM+8 GB RAM Silvery White",
+        "prices": "₦ 159,000",
+        "ratings": "4.2 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-s25-ultra-6.78-amoled-2568-4g-android-blue-393740652.html",
+        "titles": "itel S25 Ultra 6.78\" AMOLED 256+8 4G Android-Blue",
+        "prices": "₦ 224,360",
+        "ratings": "4.2 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/redbeat-d5-smartphone-6.52inch-hd-display-4gb-64gb-rom-black-367085247.html",
+        "titles": "redbeat D5 Smartphone 6.52inch HD Display, 4GB + 64GB ROM, Black",
+        "prices": "₦ 93,195",
+        "ratings": "4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/infinix-smart-9hd-6.7-4gb-ram64gb-rom-titanium-384822967.html",
+        "titles": "Infinix Smart 9HD 6.7\" 4GB RAM/64GB ROM Titanium",
+        "prices": "₦ 136,211",
+        "ratings": "4.3 out of 5",
+        "availability": "8 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-2165-wireless-fm-torch-dual-sim-phone-24-month-warranty-382158384.html",
+        "titles": "itel 2165 Wireless FM, Torch, Dual SIM Phone + 24 Month Warranty",
+        "prices": "₦ 10,990",
+        "ratings": "4.2 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/lesia-l176-1.7732mb-rom32mb800mah-dual-sim-black-409341085.html",
+        "titles": "LESIA L176_ 1.77\",32MB ROM/32MB,800MAh, Dual Sim- Black",
+        "prices": "₦ 6,999",
+        "ratings": "4.3 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/infinix-smart-9hd-6.7-4gb-ram64gb-rom-black-384822849.html",
+        "titles": "Infinix Smart 9HD 6.7\" 4GB RAM/64GB ROM Black",
+        "prices": "₦ 136,211",
+        "ratings": "4.1 out of 5",
+        "availability": "2 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-3gb-ram64gb-rom-black-408323169.html",
+        "titles": "XIAOMI REDMI A5 -  6.88   3GB RAM/64GB ROM  -- Black",
+        "prices": "₦ 89,999",
+        "ratings": "4.3 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/freeyond-f92gb64gb6.52-smartphone4g5000mahblack-195758056.html",
+        "titles": "FreeYond F9,2GB+64GB,6.52\" Smartphone,4G,5000mAh,Black",
+        "prices": "₦ 76,790",
+        "ratings": "3.8 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-3gb-ram64gb-rom-black-408237967.html",
+        "titles": "XIAOMI REDMI A5 -  6.88   3GB RAM/64GB ROM  -- BLACK",
+        "prices": "₦ 98,632",
+        "ratings": "4.2 out of 5",
+        "availability": "3 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/tecno-spark-30c-6.6-4gb-ram128gb-rom-android-14-black-382119800.html",
+        "titles": "Tecno Spark 30C 6.6\" 4GB RAM/128GB ROM Android 14 - Black",
+        "prices": "₦ 132,000",
+        "ratings": "4.1 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a5-6.88-4gb-ram128gb-rom-black-408237971.html",
+        "titles": "XIAOMI REDMI A5 -  6.88   4GB RAM/128GB ROM  -- BLACK",
+        "prices": "₦ 108,789",
+        "ratings": "4.2 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/samsung-galaxy-a05-6.7-4gb-ram64gb-rom-android-13-black..-402050267.html",
+        "titles": "Samsung Galaxy A05 6.7\" 4GB RAM/64GB ROM Android 13 - Black..",
+        "prices": "₦ 114,160",
+        "ratings": "4.3 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/samsung-galaxy-a05-6.7-4gb-ram64gb-rom-android-13-black-397109308.html",
+        "titles": "Samsung Galaxy A05 6.7\" 4GB RAM/64GB ROM Android 13 - Black",
+        "prices": "₦ 120,577",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/nokia-105african-edition1.774mb4mb800mah-dual-sim-charcoal-132260136.html",
+        "titles": "Nokia 105_African Edition,1.77\",4MB/4MB,800MAh, Dual Sim- Charcoal",
+        "prices": "₦ 12,579",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/infinix-smart-9-6.7-3gb-ram128gb-rom-android-14-go-black-379792134.html",
+        "titles": "Infinix Smart 9  6.7\" 3GB RAM/128GB ROM Android 14 Go Black",
+        "prices": "₦ 124,389",
+        "ratings": "4.4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-s23-6.78-fhd-8gb-ram256-rom-android-12-blue-351441428.html",
+        "titles": "itel S23+ 6.78\" FHD 8GB RAM/256 ROM Android 12 - Blue",
+        "prices": "₦ 198,000",
+        "ratings": "4.3 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/tecno-t353-2.0-display-fm-loud-speakertorch3000mahblack-367114650.html",
+        "titles": "Tecno T353, 2.0 Display, FM Loud Speaker,Torch,3000mAh_Black",
+        "prices": "₦ 23,700",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-p65-6.67-4gb-ram128gb-rom-50002400mah-android-14-black-374351502.html",
+        "titles": "itel P65 6.67'' 4GB RAM/128GB ROM 5000+2400*mAh Android 14-Black",
+        "prices": "₦ 129,900",
+        "ratings": "4.2 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/poco-c61-6.71-3gb-ram-64gb-rom-android-14-black-388215143.html",
+        "titles": "Poco C61 6.71\" 3GB RAM / 64GB ROM Android 14 - Black",
+        "prices": "₦ 86,400",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-a06-6.6-hd-32gb-rom-up-to-4gb-ram-4000mah-4g-366444774.html",
+        "titles": "itel A06 6.6\" HD+, 32GB ROM + Up To 4GB RAM, 4000mAh, 4G",
+        "prices": "₦ 83,390",
+        "ratings": "4.1 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/infinix-hot-50-pro-6.78-8gb-ram128gb-rom-android-14-black-380012162.html",
+        "titles": "Infinix Hot 50 Pro+ 6.78\" 8GB RAM/128GB ROM Android 14- Black",
+        "prices": "₦ 257,226",
+        "ratings": "4.7 out of 5",
+        "availability": "3 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/poco-c61-6.71-4gb-ram-128gb-rom-android-14-black-388215120.html",
+        "titles": "Poco C61 6.71\" 4GB RAM / 128GB ROM Android 14 - Black",
+        "prices": "₦ 96,400",
+        "ratings": "4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/agm-note-n1-6.52-8gb-base-ram8gb-extended-ram128gb-rom-android-13-grey-235195482.html",
+        "titles": "AGM Note N1 6.52\"  8GB Base RAM/8GB Extended RAM/128GB ROM Android 13 - Grey",
+        "prices": "₦ 126,095",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/nokia-150-dual-sim-2.4-camera-torch-1020mah-black-367171255.html",
+        "titles": "Nokia 150 - Dual Sim -2.4\" -Camera - Torch-1020mAh-Black",
+        "prices": "₦ 23,000",
+        "ratings": "3.4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-a50-6.6-3gb-ram64gb-rom-android-12-black-357614589.html",
+        "titles": "itel A50 6.6\" 3GB RAM/64GB ROM Android 12 - Black",
+        "prices": "₦ 89,900",
+        "ratings": "4.5 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/realme-c61-dual-sim-8gb-ram-256gb-4g-397550349.html",
+        "titles": "Realme C61 Dual SIM 8GB RAM 256GB 4G",
+        "prices": "₦ 169,000",
+        "ratings": "4.6 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/realme-note-50-6.724128gb13mpandroid-135000mah-midnight-black-388773948.html",
+        "titles": "Realme NOTE 50-6.72\",4/128GB,13MP,Android 13,5000mAh-Midnight Black",
+        "prices": "₦ 128,200",
+        "ratings": "4 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-14c-6.88-4gb-ram128gb-rom-android-14-midnight-black..-401965648.html",
+        "titles": "XIAOMI Redmi 14C 6.88'' 4GB RAM/128GB ROM Android 14 -Midnight Black..",
+        "prices": "₦ 135,322",
+        "ratings": "4.4 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/redmi-note-14-pro-6.67-8gb-ram256-gb-rom-hyperos-200mp-ai-camera-midnight-black-free-gift-xiaomi-mpg9585250.html",
+        "titles": "XIAOMI Redmi Note 14 PRO 6.67\" 8GB RAM/256 GB ROM HyperOS -200MP AI Camera - Midnight Black",
+        "prices": "₦ 395,081",
+        "ratings": "4.6 out of 5",
+        "availability": "1 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/redbeat-e3-6.6-inch12gb-ram256gb-rom-android-14black-365951504.html",
+        "titles": "redbeat E3 ,6.6-inch,12GB RAM/256GB ROM ,Android 14,BLACK",
+        "prices": "₦ 144,256",
+        "ratings": "4.4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/tecno-spark-30c-smart-phone-with-128gb-rom-4gb-ram-377439989.html",
+        "titles": "Tecno Spark 30C Smart Phone With 128GB ROM & 4GB RAM",
+        "prices": "₦ 148,599",
+        "ratings": "4.3 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-nokia-mpg8636576.html",
+        "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black",
+        "prices": "₦ 22,300",
+        "ratings": "3.5 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/realme-note-50-dual-sim-4gb-ram-128gb-4g-377631775.html",
+        "titles": "Realme Note 50 Dual SIM  4GB RAM 128GB 4G",
+        "prices": "₦ 128,200",
+        "ratings": "4.1 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/philips-essence-10-6.56-hd-punch-hole-64gb-rom-up-to-6g-33-gb-extended-ram-android-13-moonlight-black-408192944.html",
+        "titles": "Philips Essence 10 6.56 HD Punch Hole 64GB ROM / Up To 6G ( 3+3 GB) Extended RAM  Android 13 - Moonlight Black",
+        "prices": "₦ 91,000",
+        "ratings": "4.8 out of 5",
+        "availability": "7 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-note-14-6.67-6gb-ram128gb-rom-hyperos-108mp-ai-camera-midnight-black-401043818.html",
+        "titles": "XIAOMI Redmi Note 14 6.67\" 6GB RAM/128GB ROM HyperOS - 108MP AI Camera - Midnight Black",
+        "prices": "₦ 245,701",
+        "ratings": "4.4 out of 5",
+        "availability": "2 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a3-pro-6.88-4gb-ram-128gb-rom-android-14-midnight-black-380046365.html",
+        "titles": "XIAOMI Redmi A3 Pro 6.88\" 4GB RAM / 128GB ROM Android 14 - Midnight Black",
+        "prices": "₦ 118,895",
+        "ratings": "4.2 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-a18s-5.0-32gb-rom-up-to-4gb-ram-5mp-android-13-orange-277844530.html",
+        "titles": "itel A18S 5.0\" 32GB ROM + Up To 4GB RAM, 5MP, Android 13 - Orange",
+        "prices": "₦ 105,000",
+        "ratings": "3.8 out of 5",
+        "availability": "1 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a3-pro-6.88-4gb-ram-128gb-rom-android-14-midnight-black..-401991571.html",
+        "titles": "XIAOMI Redmi A3 Pro 6.88\" 4GB RAM / 128GB ROM Android 14 - Midnight Black..",
+        "prices": "₦ 118,895",
+        "ratings": "4.1 out of 5",
+        "availability": "8 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/philips-xenium210-wireless-fm-black-408194046.html",
+        "titles": "Philips Xenium210 Wireless FM - Black",
+        "prices": "₦ 15,500",
+        "ratings": "4.7 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-s25-ultra-6.78-curved-amoled-256gb-8gb-ram-50mp-5000mah-398439562.html",
+        "titles": "itel S25 Ultra 6.78\" Curved AMOLED, 256GB + 8GB RAM, 50MP, 5000mAh",
+        "prices": "₦ 239,900",
+        "ratings": "4.9 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-nokia-mpg7057095.html",
+        "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black",
+        "prices": "₦ 22,300",
+        "ratings": "3.5 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/apple-iphone-15-pro-max-6.7-512gb-nano-sim-5g-natural-titanium-382455486.html",
+        "titles": "Apple IPhone 15 Pro Max 6.7\" 512GB Nano-SIM 5G - Natural Titanium",
+        "prices": "₦ 2,000,000",
+        "ratings": "5 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/tecno-t315-big-screen-fm-loud-speaker-big-battery-black-367585233.html",
+        "titles": "Tecno T315, Big Screen, FM Loud Speaker, Big Battery-Black",
+        "prices": "₦ 23,500",
+        "ratings": "4.5 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/poco-c61-6.71-4gb-ram-128gb-rom-android-14-black-380046453.html",
+        "titles": "Poco C61 6.71\" 4GB RAM / 128GB ROM Android 14 - Black",
+        "prices": "₦ 96,400",
+        "ratings": "3.8 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/nokia-5310-xpressmusic-wireless-fm-loudspeaker-dual-sim-black-290394846.html",
+        "titles": "Nokia 5310 XpressMusic Wireless FM Loudspeaker Dual SIM -black",
+        "prices": "₦ 22,999",
+        "ratings": "4 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/freeyond-f9-6.52-2gb-ram64gb-rom-android-12-blue-195765750.html",
+        "titles": "FreeYond F9 6.52\" 2GB RAM/64GB ROM Android 12 - Blue",
+        "prices": "₦ 104,279",
+        "ratings": "3.8 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/samsung-galaxy-s21-5g-8128gb-g991u-single-sim-black-359755866.html",
+        "titles": "Samsung Galaxy S21 5G 8+128GB G991U Single Sim -black",
+        "prices": "₦ 366,000",
+        "ratings": "3.5 out of 5",
+        "availability": "2 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/infinix-hot-50-pro-plus-smart-phone-with-128gb-rom-8gb-ram-391092628.html",
+        "titles": "Infinix Hot 50 Pro Plus Smart Phone With 128GB ROM & 8GB RAM",
+        "prices": "₦ 280,399",
+        "ratings": "4.1 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/nokia-5310-xpressmusic-bluetooth-mp3-fm-dual-sim-color-black-367200309.html",
+        "titles": "Nokia 5310 XpressMusic, Bluetooth, MP3, FM, Dual SIM, Color -Black",
+        "prices": "₦ 23,700",
+        "ratings": "4 out of 5",
+        "availability": "4 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/samsung-galaxy-s21-ultra-5g-6.8-128gb-12gb-ram-single-sim-black-284509464.html",
+        "titles": "Samsung Galaxy S21 Ultra 5G-6.8\" (128GB, 12GB RAM) Single Sim Black ⚫️",
+        "prices": "₦ 550,000",
+        "ratings": "4.3 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-a3x-6.71-3gb-ram64gb-rom-android-14-black-351646555.html",
+        "titles": "XIAOMI Redmi A3x 6.71\" 3GB RAM/64GB ROM Android 14 - Black",
+        "prices": "₦ 108,464",
+        "ratings": "3.8 out of 5",
+        "availability": "1 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/xiaomi-redmi-note-14-pro-6.67-12gb-ram512-gb-rom-hyperos-200mp-ai-camera-midnight-black.-401043821.html",
+        "titles": "XIAOMI Redmi Note 14 PRO 6.67\" 12GB RAM/512 GB ROM HyperOS -200MP AI Camera - Midnight Black.",
+        "prices": "₦ 472,681",
+        "ratings": "4.8 out of 5",
+        "availability": "2 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/oppo-a31-6gb-ram128g-rom-refurbished-dual-sim6.5-inch-screen-hd-camera-12mp-face-unlockfingerprint-smartphone-renewed-mpg10471363.html",
+        "titles": "Renewed Oppo A31 6GB RAM+128G ROM Refurbished Dual SIM6.5 Inch Screen HD Camera 12MP Face Unlock+Fingerprint Smartphone",
+        "prices": "₦ 84,784",
+        "ratings": "4.1 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/samsung-galaxy-s20-5g-6.2-128gb-rom-12gb-ram-grey-256235949.html",
+        "titles": "Samsung Galaxy S20 5G - 6.2'' (128GB ROM 12GB RAM) Grey",
+        "prices": "₦ 293,500",
+        "ratings": "4.4 out of 5",
+        "availability": "1 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/huawei-y5p-99.9new-2gb-ram-32gb-rom-5000mah-battery-6.3-inch-screen-passwordfacial-recognition-refurbished-smartphonelocal-customer-service-366988327.html",
+        "titles": "Huawei Y5P 99.9%NEW 2GB RAM 32GB ROM 5000mAh Battery 6.3-inch Screen    Password/facial Recognition Refurbished Smartphone【Local Customer Service】",
+        "prices": "₦ 51,200",
+        "ratings": "5 out of 5",
+        "availability": "5 units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/renewed-oppo-a31-6gb-ram128g-rom-refurbished-dual-sim6.5-inch-screen-hd-camera-12mp-face-unlockfingerprint-smartphone-262827083.html",
+        "titles": "Renewed Oppo A31 6GB RAM+128G ROM Refurbished Dual SIM6.5 Inch Screen HD Camera 12MP Face Unlock+Fingerprint Smartphone",
+        "prices": "₦ 87,984",
+        "ratings": "4.2 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/itel-power-70-6.67-hd-44gb-ram128gb-rom-andriod-silver-408313003.html",
+        "titles": "itel Power 70 6.67'' HD 4+4GB RAM/128GB ROM Andriod - Silver",
+        "prices": "₦ 124,900",
+        "ratings": "5 out of 5",
+        "availability": "Availability unknown"
+    },
+    {
+        "links": "https://www.jumia.com.ng/realme-note-50-6.72364gb13mpandroid-135000mah-sky-blue-377631668.html",
+        "titles": "Realme NOTE 50-6.72\",3/64GB,13MP,Android 13,5000mAh-Sky Blue",
+        "prices": "₦ 109,900",
+        "ratings": "4 out of 5",
+        "availability": "Few units left"
+    },
+    {
+        "links": "https://www.jumia.com.ng/redbeat-e3-6.6-inch12gb-ram256gb-rom-android-14blue-365952954.html",
+        "titles": "redbeat E3 ,6.6-inch,12GB RAM/256GB ROM ,Android 14,BLUE",
+        "prices": "₦ 150,815",
+        "ratings": "4.6 out of 5",
+        "availability": "Availability unknown"
+    }
 ]

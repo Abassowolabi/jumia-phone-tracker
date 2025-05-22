@@ -1,17 +1,19 @@
-# Define your item pipelines here
-#
-# Don't forget to add your pipeline to the ITEM_PIPELINES setting
-# See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-
-
-# useful for handling different item types with a single interface
 import pymongo
+import os.path
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
 
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+SPREADSHEET_ID = '1U_XhwM7U98lLApk-vAMQjFnTYh00xsAVjENUM13dIpU' 
 class MongoDBPipeline:
 
     def __init__(self, mongo_uri, mongo_db):
         self.mongo_uri = mongo_uri
         self.mongo_db = mongo_db
+        self.creds = None
+        self.service = None
+        self.authenticate_google_sheets()
 
     @classmethod
     def from_crawler(cls, crawler):
@@ -27,7 +29,38 @@ class MongoDBPipeline:
     def close_spider(self, spider):
         self.client.close()
 
+    def authenticate_google_sheets(self):
+        if os.path.exists('token.json'):
+            self.creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+        if not self.creds or not self.creds.valid:
+            flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
+            self.creds = flow.run_local_server(port=0)
+            with open('token.json', 'w') as token:
+                token.write(self.creds.to_json())
+        self.service = build('sheets', 'v4', credentials=self.creds)
+
     def process_item(self, item, spider):
-        collection_name = spider.name  # use spider name as collection name
+        # Save to MongoDB
+        collection_name = spider.name
         self.db[collection_name].insert_one(dict(item))
+
+        # Prepare data for Google Sheets
+        values = [[
+            item.get('titles', ''),
+            item.get('prices', ''),
+            item.get('ratings', ''),
+            item.get('availability', ''),
+            item.get('links', '')
+        ]]
+        body = {'values': values}
+
+        # Append row to Google Sheet
+        self.service.spreadsheets().values().append(
+            spreadsheetId=SPREADSHEET_ID,
+            range='Sheet1!A1',  # Adjust if your sheet name is different
+            valueInputOption='RAW',
+            insertDataOption='INSERT_ROWS',
+            body=body
+        ).execute()
+
         return item
